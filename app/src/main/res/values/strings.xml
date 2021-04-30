@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DemoMySecondApp</string>
+    <string name="welcome">Welcome to Android! </string>
+    <string name="large">Large Text</string>
+    <string name="name">Name: </string>
+    <string name="password">Password: </string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="register">Registration Form</string>
+    <string name="club">Welcome to the Kool Kids Klub!</string>
+    <string name="fullname">Full Name</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="student_id">Student ID</string>
+    <string name="id_example">e.g. 21234567</string>
+    <string name="school">School</string>
+    <string name="school_prompt">Select a School</string>
+    <string-array name="school_array">
+        <item>School of Applied Science</item>
+        <item>School of Engineering</item>
+        <item>School of Hospitality</item>
+        <item>School of Infocomm</item>
+        <item>School of Management and Communication</item>
+        <item>School of Sports, Health and Leisure</item>
+        <item>School of Technology for the Arts</item>
+    </string-array>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="phone_example">e.g. 91234567</string>
+    <string name="submit">Submit</string>
+</resources>
